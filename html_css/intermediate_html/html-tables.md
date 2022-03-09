@@ -23,6 +23,8 @@ For example:
 
 In this codepen example we created a table element, containing two table row elements. The first row has two headings while the second row has 2 data cells.
 
+The above Codepen.
+
 ### Assignment 
 <div class="lesson-content__panel" markdown="1">
 1. Read these [Tables Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics) and [Tables Advanced](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced) tutorials from MDN. They should teach you all the syntax behind HTML tables. It's pretty straightforward. Make sure to code along!
